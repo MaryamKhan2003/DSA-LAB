@@ -1,4 +1,4 @@
-/Example 4.1 && EXERCISE 4.1:
+//Example 4.1 && EXERCISE 4.1:
 //#include <iostream>
 //#include "queue.h"
 //
